@@ -1,15 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d219f45-2e69-4662-a48e-c7a45d6769ce" name="Default Changelist" comment="" />
+    <list default="true" id="7d219f45-2e69-4662-a48e-c7a45d6769ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/aula7-print-ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex09a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo1/aula-08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo1/aula07a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1T4gxYJXdOWFiq891AUycQcQRTi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -24,8 +55,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex03">
-    <configuration name="aula-06" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.aula-08">
+    <configuration name="aula-08" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="curso-em-video" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -37,7 +68,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo1/aula-06a.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo1/aula-08.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -46,28 +77,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula06b" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="curso-em-video" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mundo1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo1/aula06b.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex12" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="curso-em-video" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,7 +89,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex13" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="curso-em-video" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,7 +110,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex13.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex14" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="curso-em-video" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex14.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex15" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="curso-em-video" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex15.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,10 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex03" />
-        <item itemvalue="Python.aula06b" />
-        <item itemvalue="Python.aula-06" />
-        <item itemvalue="Python.ex01" />
+        <item itemvalue="Python.aula-08" />
+        <item itemvalue="Python.ex15" />
+        <item itemvalue="Python.ex14" />
+        <item itemvalue="Python.ex13" />
+        <item itemvalue="Python.ex12" />
       </list>
     </recent_temporary>
   </component>
@@ -130,5 +183,16 @@
       <updated>1572725028775</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
