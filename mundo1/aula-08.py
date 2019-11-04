@@ -1,5 +1,4 @@
 import math
-from match import
 
 #Ctrl+Space - apresenta todos os itens da biblioteca
 #import doce - importar toda biblioteca
